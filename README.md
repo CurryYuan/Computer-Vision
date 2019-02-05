@@ -1,2 +1,4 @@
 # Computer-Vision
-computer vision learning
+computer vision homework
+
+SYSU Kun Zeng
